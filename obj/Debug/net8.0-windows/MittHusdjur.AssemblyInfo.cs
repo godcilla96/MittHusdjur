@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MittHusdjur")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecd30cfb037663c3a9798b700924e6245b660216")]
 [assembly: System.Reflection.AssemblyProductAttribute("MittHusdjur")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MittHusdjur")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

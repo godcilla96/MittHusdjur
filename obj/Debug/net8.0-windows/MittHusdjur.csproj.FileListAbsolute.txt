@@ -12,3 +12,4 @@ C:\Users\Thinkpad\MittHusdjur\obj\Debug\net8.0-windows\refint\MittHusdjur.dll
 C:\Users\Thinkpad\MittHusdjur\obj\Debug\net8.0-windows\MittHusdjur.pdb
 C:\Users\Thinkpad\MittHusdjur\obj\Debug\net8.0-windows\MittHusdjur.genruntimeconfig.cache
 C:\Users\Thinkpad\MittHusdjur\obj\Debug\net8.0-windows\ref\MittHusdjur.dll
+C:\Users\Thinkpad\MittHusdjur\obj\Debug\net8.0-windows\MittHusdjur.sourcelink.json

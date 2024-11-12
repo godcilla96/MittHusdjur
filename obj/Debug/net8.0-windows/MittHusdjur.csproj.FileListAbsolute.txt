@@ -1,0 +1,14 @@
+C:\Users\Thinkpad\MittHusdjur\bin\Debug\net8.0-windows\MittHusdjur.exe
+C:\Users\Thinkpad\MittHusdjur\bin\Debug\net8.0-windows\MittHusdjur.deps.json
+C:\Users\Thinkpad\MittHusdjur\bin\Debug\net8.0-windows\MittHusdjur.runtimeconfig.json
+C:\Users\Thinkpad\MittHusdjur\bin\Debug\net8.0-windows\MittHusdjur.dll
+C:\Users\Thinkpad\MittHusdjur\bin\Debug\net8.0-windows\MittHusdjur.pdb
+C:\Users\Thinkpad\MittHusdjur\obj\Debug\net8.0-windows\MittHusdjur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad\MittHusdjur\obj\Debug\net8.0-windows\MittHusdjur.AssemblyInfoInputs.cache
+C:\Users\Thinkpad\MittHusdjur\obj\Debug\net8.0-windows\MittHusdjur.AssemblyInfo.cs
+C:\Users\Thinkpad\MittHusdjur\obj\Debug\net8.0-windows\MittHusdjur.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\MittHusdjur\obj\Debug\net8.0-windows\MittHusdjur.dll
+C:\Users\Thinkpad\MittHusdjur\obj\Debug\net8.0-windows\refint\MittHusdjur.dll
+C:\Users\Thinkpad\MittHusdjur\obj\Debug\net8.0-windows\MittHusdjur.pdb
+C:\Users\Thinkpad\MittHusdjur\obj\Debug\net8.0-windows\MittHusdjur.genruntimeconfig.cache
+C:\Users\Thinkpad\MittHusdjur\obj\Debug\net8.0-windows\ref\MittHusdjur.dll

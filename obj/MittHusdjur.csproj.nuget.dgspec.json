@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thinkpad\\MittHusdjur\\MittHusdjur.csproj": {}
+    "c:\\Users\\Thinkpad\\MittHusdjur\\MittHusdjur.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thinkpad\\MittHusdjur\\MittHusdjur.csproj": {
+    "c:\\Users\\Thinkpad\\MittHusdjur\\MittHusdjur.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thinkpad\\MittHusdjur\\MittHusdjur.csproj",
+        "projectUniqueName": "c:\\Users\\Thinkpad\\MittHusdjur\\MittHusdjur.csproj",
         "projectName": "MittHusdjur",
-        "projectPath": "C:\\Users\\Thinkpad\\MittHusdjur\\MittHusdjur.csproj",
+        "projectPath": "c:\\Users\\Thinkpad\\MittHusdjur\\MittHusdjur.csproj",
         "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thinkpad\\MittHusdjur\\obj\\",
+        "outputPath": "c:\\Users\\Thinkpad\\MittHusdjur\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thinkpad\\AppData\\Roaming\\NuGet\\NuGet.Config"
